@@ -9,6 +9,8 @@ redirect_from:
 
 ## About me
 
-Biostatistics leader with experience in vaccine clinical development across Phase 1 to Phase 4 studies, including post-marketing research. Expertise in statistical strategy, study design, protocol and SAP development, regulatory submission support, and statistical leadership for studies with efficacy, immunogenicity, and safety endpoints.
+I am a biostatistics leader and statistical subject matter expert with experience supporting vaccine and drug clinical development across Phase 1 to Phase 4 studies. My work bridges project-level statistical strategy with study-level execution, including study design, estimand strategy, SAP/TFL development, interim and final analysis planning, regulatory submission support, and interpretation of clinical trial results.
 
-My work includes statistical leadership across prophylactic and therapeutic vaccine programs, with experience in translational research, clinical development, simulation, Bayesian methods, missing data methods, and R/Shiny tool development for practical decision-making.
+Currently, I serve as a Statistics Project Leader, Deputy Director in Global Biostatistics Sciences – Vaccines at Sanofi, where I lead biostatistical support for 3 programs covering 7 studies. I support CDP/TPP strategy, Go/No-Go criteria, development milestones, regulatory deliverables, and cross-functional decision-making.
+
+My interests include event-driven studies, missing data imputation, longitudinal data analysis, Bayesian methods, sample size and power evaluation, statistical simulation, and R-based tools for clinical data visualization and statistical surveillance.
