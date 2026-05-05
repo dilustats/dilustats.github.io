@@ -26,9 +26,9 @@ redirect_from:
 
 **Vienna, VA, USA**
 
-**Senior Biostatistician | Oct 2020 – Nov 2023**  
+**Senior Biostatistician** — Oct 2020 – Nov 2023  
 
-**Biostatistician | Jun 2018 – Sep 2020**
+**Biostatistician** — Jun 2018 – Sep 2020
 
 - Served as the primary statistical SME for 15+ clinical trials across vaccines, monoclonal antibodies, medical devices, and drugs.
 
