@@ -10,7 +10,9 @@ redirect_from:
 
 ### Statistics Project Leader, Deputy Director  
 
-**Sanofi | Global Biostatistics Sciences – Vaccines | Dec 2023 – Present | Waltham, MA, USA**
+**Sanofi, Global Biostatistics Sciences – Vaccines**  
+
+Dec 2023 – Present · Waltham, MA, USA
 
 - Lead biostatistical support for 3 programs covering 7 studies across translational research and Phase 2 to Phase 4 development.
 
@@ -24,11 +26,15 @@ redirect_from:
 
 ### Biomedical Advanced Research and Development Authority (BARDA)  
 
-**Vienna, VA, USA**
+Vienna, VA, USA
 
-**Senior Biostatistician** — Oct 2020 – Nov 2023  
+**Senior Biostatistician**  
 
-**Biostatistician** — Jun 2018 – Sep 2020
+Oct 2020 – Nov 2023
+
+**Biostatistician**  
+
+Jun 2018 – Sep 2020
 
 - Served as the primary statistical SME for 15+ clinical trials across vaccines, monoclonal antibodies, medical devices, and drugs.
 
@@ -42,7 +48,9 @@ redirect_from:
 
 ### Statistical Analyst  
 
-**Biostat Solutions Inc | Feb 2018 – Jun 2018 | Frederick County, MD, USA**
+**Biostat Solutions Inc**  
+
+Feb 2018 – Jun 2018 · Frederick County, MD, USA
 
 - Supported clinical projects through statistical analysis, SAP development, and method selection.
 
@@ -50,7 +58,9 @@ redirect_from:
 
 ### ORISE Fellow  
 
-**U.S. Food and Drug Administration (FDA) | Jun 2017 – Aug 2017 | White Oak, MD, USA**
+**U.S. Food and Drug Administration (FDA)**  
+
+Jun 2017 – Aug 2017 · White Oak, MD, USA
 
 - Ran simulations to evaluate statistical methods for bioequivalence analyses.
 
